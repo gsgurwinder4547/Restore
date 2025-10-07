@@ -28,7 +28,7 @@ function App() {
           py: 6
         }}
       >
-        <Container maxWidth='xl' sx={{ mt: 8}}> 
+        <Container maxWidth='xl' sx={{ mt: 8 }}> 
           <Outlet />
         </Container>
       </Box>
